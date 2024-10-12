@@ -42,3 +42,7 @@ int main(){
 
     return 0;
 }
+//next start from-5.4 - Capital, Small or DIgit
+//https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
+//https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
+
