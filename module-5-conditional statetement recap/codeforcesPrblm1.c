@@ -2,6 +2,8 @@
 int main(){
     // printf("hello world\n");
 
+    //prblm--->https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
+
     char ch;
     // printf("Enter a charecter:\n");
     scanf("%c",&ch);
