@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    //https://youtu.be/k9OlCJFy5yo?si=3Njx4rxLHP9e4YEK
     cout<<"enter row number:\n";
     int row;
     cout<<"row :\n";
